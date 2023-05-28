@@ -1,7 +1,7 @@
 # Employee-Review-System
 A full stack, app used for reviewing employee.
-Hoisted Link : https://employee-review-9fnx.onrender.com
-github repository : https://github.com/Manjeetk1248/employee-review
+Hoisted Link : 
+github repository : https://github.com/gousebee9581/Employee-Review-System
 
 
 ### Description
@@ -27,7 +27,7 @@ After reaching the project directory you have to run the following the command.
         npm start || nodemon index.js
    ````
 
-#### If you want to make an employee as admin then use the secret key : happy.
+#### If you want to make an employee as admin then use the secret key : Gouse.
 
 ### Features
 
